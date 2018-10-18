@@ -1,0 +1,8 @@
+#accounts{
+	width: 100%;
+}
+
+#new-account-name{
+	margin-right: 0.5rem;
+	max-width: 50%;
+}
